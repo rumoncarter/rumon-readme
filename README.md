@@ -5,3 +5,15 @@ The idea behind this repository is to provide a "how-to handbook" for working wi
 
 <H2>Bio</H2>
 Rumon works for the Government of British Columbia as the Executive Director of the Exchange Lab, where it is his job to support the creation, cultivation and continuous learning of teams enabled and equipped to solve some of the most complex problems facing the province today. Outside government, Rumon is fiercely passionate about connecting people to the outdoors, to movement, to one another, and to the best versions of themselves. A writer, photographer, biologist and lawyer, he does so through advocacy, stories, coaching and community-building. His fiercest passions, though, are his partner, Jennie, and her two girls.
+
+This is a short bio (97 words) intended for conference agenda, etc. If you're looking for a more substantial version, you can find that here (link TBA). Alternately, the full gamut of my professional background and work-related updates can be found <a href="linkedin.com/in/rumon">on LinkedIn</a>.
+
+<H2>Core Values</H2>
+Many years ago, during a time of transition and career uncertaintly for me, a friend of mine - my teammate in many multi-day mountain bike races and other adventures - who had his executive coaching certitification offered to run me through an evening of values-based decision-making coaching. He started by confronting me with a full page of value descriptors, directing me to pick first a top-25 list, then pare it down to ten, then five, then three. I found it at once challenging and instructive, honing in on the values that I felt had the greatest impact on how I navigated through my life. All these years later, I recognize that some of the values I selected for my long list that night were more indicative of <i>aspirational</i> values, values I wished I espoused at that point in my life, rather than values that I actually held and expressed. However, those at my core have deviated little, though I have grown to understand and consider them with greater nuance. 
+
+Entertainingly, based on those three most-core of my values, I'm a pretty average person, given they're version of the same three things that Daniel Pink observes, in <a href="https://www.danpink.com/books/drive/">his book Drive</a>, motivate us all (acknowledging that values and motivations are not necessarily synonymous or congruent in each of us): Purpose, Autonomy & Mastery. I set out below each of those core values as I consider them, as well as a handful of others that exist one ring outside my values bullseye. In addition, I describe how I see these values showing up in mysely, my actions and decisions in the workplace.
+
+<H2>Principles</H2>
+To be populated
+
+<H2>Strengths</H2>
