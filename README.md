@@ -17,9 +17,9 @@ To be populated
 
 <H2>Strengths</H2>
 
-<H2>Pointers from Previous Direct Reports</H>
+<H2>Pointers from Previous Direct Reports</H2>
 <ol>
-<li>Rumon will always have your back. Rumon cares about his team - especially direct reports - above all else. He will almost literally go to war, run through walls or work all night for his people. If you have a pressing issue that you can’t move forward on, don’t be afraid to escalate it to Rumon with a clear suggestion on how he can help address it.</li>
+  <li><b>Rumon will always have your back.</b> Rumon cares about his team above all else. He will almost literally go to war, run through walls or work all night for his people. If you have a pressing issue that you can’t move forward on, don’t be afraid to escalate it to Rumon with a clear suggestion on how he can help address it.</li>
 <li>Rumon is intense. Rumon is among the most intense people you’ll ever work with. For context, he’s competed at the national or international level at several endurance sports (biathlon, cross-country skiing, triathlon, rowing, mountain biking, road cycling, marathons, ultra marathons, etc.). He applies the same level of intensity it takes to win at that level of sport to his work, working tirelessly to achieve results under challenging conditions. Accept this, use it to drive forward on tough issues, but don’t let it guilt you into thinking this level of intensity is expected of you. It’s not.</li>
 <li>Rumon is radically transparent. Rumon is radically transparent with his staff, especially his direct reports. His team will be the first to know about major strategy/policy/staffing changes. In return, he expects complete confidentiality from his team. For some people, this level of transparency can be stressful at times.</li>
 <li>Rumon believes in agentic leadership. He empowers staff at all levels with full autonomy to solve tough problems and deliver on their files. He expects his direct reports to run their own operations (finances, HR, procurement, etc.), but will always be there if you need support or top cover.</li> 
