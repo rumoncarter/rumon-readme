@@ -12,10 +12,18 @@ Many years ago, during a time of transition and career uncertaintly for me, a fr
 <br/><br/>
 Entertainingly, based on those three most-core of my values, I'm a pretty average person, given they're essentially a version of the same three things that Daniel Pink observes, in <a href="https://www.danpink.com/books/drive/">his book Drive</a>, motivate us all (acknowledging that values and motivations are not necessarily synonymous or congruent in each of us): Purpose, Autonomy & Mastery. I set out below each of those core values as I consider them, as well as a handful of others that exist one ring outside my values bullseye. In addition, I describe how I see these values showing up in mysely, my actions and decisions in the workplace.
 
-<H2>Principles</H2>
-To be populated
+<H2>Virtues</H2>
 
-<H2>Strengths</H2>
+[Virtues vs. Values] A note on nested virtues. Note that these are my (ideal) values and are not, per se, expected of my teams. Not listed in any particular order.
+<ul>
+  <li><b>Manifest the change you want to see in the world</b> Extreme ownership here.
+  <li><b>Show up with your whole self.</b> Vulnerability, Brene, there's no work-life.
+  <li><b>Take care of your whole self.</b>
+  <li><b>Maintain a growth - and beginnner's - mindset.</b>
+  <li><b>Walk ten miles in others' shoes.</b> Empathy. Not doing the de minimus (a single mile).
+  <li><b>Take care of your team</b> Defined broadly - including potential future team members. Foster psychological safety. 
+  <li><b>Focus relentlessly on the right things.</b>Identify core vs. context and focus on the former.  
+</ul>  
 
 <H2>Pointers from Previous Direct Reports</H2>
 <ol>
@@ -30,4 +38,5 @@ To be populated
 <li><b>Rumon will attempt to organize and create process when he is stressed out.</b> His preferred state is to be ready to act on work to do and to make decisions. He’s highly effective at this, but like all of us, has a different state when he is stressed. If his team or environment is not sufficiently organized, and there are high stakes or sub-optimal working conditions, he will start to reorganize the LAN. It is highly advised you prevent this from happening.
 <li><b>Rumon will be quiet when he gets to the next order of stress.</b> Rumon cares deeply about the people he works with and actively engages and trusts them implicitly. He’s also very contributory in nearly every situation. However, after his attempts to reorganize the LAN, and if the stress levels up, you’ll notice he will disengage. He is taking time to untangle the situation and attempting not to cause damage with his intensity. Rumon can de-escalate from this state if he has an opportunity to recharge in nature. He also values candor and genuine attempts from his direct reports to actively solve the problems that might be causing the stress, if that is possible.</li>
 <li><b>Rumon is a strong ally for those with unrealized potential and a desire to contribute.</b> He is passionate about equality, inclusivity, and creating conditions for all of us to address systemic barriers and our own biases that get in the way of these values. You will notice him doing this openly himself. He puts his growth mindset on display. He also expects this mindset from his direct reports and nearly everyone he engages. There is no limit to the success the team, organization, or community he leads can have when this growth and potential is unleashed. He’s had great success doing this in a variety of settings and will not accept any excuses for perpetuating limitations to the greatness any of his team members might achieve. The only condition is that people show up to contribute generously with situational awareness, courage, empathy and humility, as best they can.</li>
+</ol>
 
