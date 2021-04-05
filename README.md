@@ -41,3 +41,14 @@ Entertainingly, based on those three most-core of my values, I'm a pretty averag
 <li><b>Rumon is a strong ally for those with unrealized potential and a desire to contribute.</b> He is passionate about equality, inclusivity, and creating conditions for all of us to address systemic barriers and our own biases that get in the way of these values. You will notice him doing this openly himself. He puts his growth mindset on display. He also expects this mindset from his direct reports and nearly everyone he engages. There is no limit to the success the team, organization, or community he leads can have when this growth and potential is unleashed. He’s had great success doing this in a variety of settings and will not accept any excuses for perpetuating limitations to the greatness any of his team members might achieve. The only condition is that people show up to contribute generously with situational awareness, courage, empathy and humility, as best they can.</li>
 </ol>
 
+<h2Communication</h2>
+
+When it comes to work, there is nothing I enjoy and value more than a vigorous, generative discussion among 2-6 contributing participants - in-person, on our feet, likely huddled around a whiteboard. That said, for a variety of reasons - not least, most recently, the pandemic and how it has driven us into a distributed, work-from-anywhere context - this is an increassingly rare experience for me. I miss those times, but as per my family's motto, I make the best with what's presented. Generally, that shakes out as the following being our options for communicating, which I hash out in this section and in a subsequent section specific to scheduled meetings: 
+<ol>
+  <li>Scheduled meeting;</li>
+  <li>Email;</li>
+  <li>Microsoft Teams (subcategories: (a) channels, (b) chat);</li>
+  <li>Text (mobile phone); and</li>
+  <li>Ad hoc real-time conversation (Teams / phone call).</li>
+</ol>
+
