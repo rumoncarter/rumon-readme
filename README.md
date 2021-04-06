@@ -41,14 +41,34 @@ Entertainingly, based on those three most-core of my values, I'm a pretty averag
 <li><b>Rumon is a strong ally for those with unrealized potential and a desire to contribute.</b> He is passionate about equality, inclusivity, and creating conditions for all of us to address systemic barriers and our own biases that get in the way of these values. You will notice him doing this openly himself. He puts his growth mindset on display. He also expects this mindset from his direct reports and nearly everyone he engages. There is no limit to the success the team, organization, or community he leads can have when this growth and potential is unleashed. He’s had great success doing this in a variety of settings and will not accept any excuses for perpetuating limitations to the greatness any of his team members might achieve. The only condition is that people show up to contribute generously with situational awareness, courage, empathy and humility, as best they can.</li>
 </ol>
 
-<h2Communication</h2>
+<h2>Communication</h2>
 
-When it comes to work, there is nothing I enjoy and value more than a vigorous, generative discussion among 2-6 contributing participants - in-person, on our feet, likely huddled around a whiteboard. That said, for a variety of reasons - not least, most recently, the pandemic and how it has driven us into a distributed, work-from-anywhere context - this is an increassingly rare experience for me. I miss those times, but as per my family's motto, I make the best with what's presented. Generally, that shakes out as the following being our options for communicating, which I hash out in this section and in a subsequent section specific to scheduled meetings: 
+When it comes to work, there is nothing I enjoy and value more than a vigorous, generative discussion among 2-6 contributing participants - in-person, on our feet, likely huddled around a whiteboard. That said, for a variety of reasons - not least, most recently, the pandemic and how it has driven us into a distributed, work-from-anywhere context - this is an increassingly rare experience for me. I miss those times, but as per my family's motto, I make the best with what's presented. Generally, that shakes out as the following options for communicating, which I hash out in this section (and in a separate subsequent section specific to scheduled meetings): 
 <ol>
   <li>Scheduled meeting;</li>
+  <li>Process tracking tools (e.g. eApprovals)</li>
+  <li>Persistent publications (e.g. blogs, wikis, weeknotes, the intranet);</li>
   <li>Email;</li>
-  <li>Microsoft Teams (subcategories: (a) channels, (b) chat);</li>
+  <li>Microsoft Teams (subcategories: (a) channels, and (b) chat);</li>
   <li>Text (mobile phone); and</li>
-  <li>Ad hoc real-time conversation (Teams / phone call).</li>
+  <li>Ad hoc real-time conversation (Teams / phone calls).</li>
 </ol>
+Before digging into those specifics, though, a few general points about the purposes of communication, and my preferences and peculiarities in its regard. 
+
+One could argue the finer details of this, but for the purposes here let's set out five categorical purposes of communication: to inform (informative communication), to express feelings (affective communication), to imagine (imaginative communication), to influence (persuasive communication), and to meet social expectations (ritualistic communication). Aguably, each of these arises in the professional communications context as much as in our daily lives outside work; additionally, one can also argue that each form of communication lends itself better or worse to various forms and channels of communication. For example, admitting the bias of my preference expressed above, I think we can probably all agree that a series of reply-all emails among a group of 20 is not the most effective channel for engaging in imaginative communication.
+
+Applying this to our work in government, we could identify the following reasons for internal communication (i.e. leaving aside public communications, promulgation of policy, etc.): 
+<ul>
+  <li>Documenting decisions and records;</li>
+  <li>Making decisions;</li>
+  <li>Creating / iterating on documents, content, etc.;</li>
+  <li>Sharing information (noting varying degrees of formality and audience size, as well as constraints re: type of information that can be shared on various channels); and</li>
+  <li>Social / informal connection.</li>
+  
+Intersecting our purposes for communication with our available means of communication in government, I land on the following personal preferences, set out from each perspective. <b>Please note also the preferences set out here.</b>
+
+<h3>Communication Style & Preferences</h3>
+
+<u>According to channel:</u>
+
 
