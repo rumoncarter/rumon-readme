@@ -65,10 +65,14 @@ Applying this to our work in government, we could identify the following reasons
   <li>Sharing information (noting varying degrees of formality and audience size, as well as constraints re: type of information that can be shared on various channels); and</li>
   <li>Social / informal connection.</li>
   
-Intersecting our purposes for communication with our available means of communication in government, I land on the following personal preferences, set out from each perspective. <b>Please note also the preferences set out here.</b>
+Intersecting our purposes for communication with our available means of communication in government, tuning for a desire to maximize effectiveness and minimize context shifting, I've landed on the following personal preferences for how and when to use communication channels.
 
-<h3>Communication Style & Preferences</h3>
+<h3>Communication Channel Preferences</h3>
 
-<underline>According to channel:</underline>
+According to channel:
+<ul>
+  <li><b>LAN</b>: Not really a communications channel *per se*, but for documenting decisions and the formal filing of final versions of information, briefing materials, etc. this is the go-to spot, with ORCS/ARCS applied as required.</li>
+    <li><b>eApprovals</b>: As is surely manifestly clear I love *purposeful, effective* process, i.e. process that serves, supports and accelerates effectiveness. (Correspondingly, I disdain process for its own sake, or as a risk- or decision-avoidance hedge.) eApprovals, while an imperfect tool, serves an important purpose of tracking and contributing to the documentation of government decisions and information records. In the absence of anything better, I'm a fan. That said, it should be used at the end of a content creation process, i.e. only final version candidate / decision-ready documents should be loaded into eApps - for the generation and iteration processes, use true collaboration tools (per below).</li>
+  <li><b>Email</b>: 
 
 
