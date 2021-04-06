@@ -69,6 +69,6 @@ Intersecting our purposes for communication with our available means of communic
 
 <h3>Communication Style & Preferences</h3>
 
-<u>According to channel:</u>
+<underline>According to channel:</underline>
 
 
