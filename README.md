@@ -18,13 +18,21 @@ Entertainingly, based on those three most-core of my values, I'm a pretty averag
 [Virtues vs. Values] A note on nested virtues. Note that these are my (ideal) values and are not, per se, expected of my teams. Not listed in any particular order.
 <ul>
   <li><b>Manifest the change you want to see in the world</b> Extreme ownership here.
-  <li><b>Show up with your whole self.</b> Vulnerability, Brene, there's no work-life.
+  <li><b>Show up with your whole self.</b> Vulnerability, Brene, there's no work-life. Unless you can't. Then take a break (see next).
   <li><b>Take care of your whole self.</b>
   <li><b>Maintain a growth - and beginnner's - mindset.</b>
   <li><b>Walk ten miles in others' shoes.</b> Empathy. Not doing the de minimus (a single mile).
   <li><b>Take care of your team</b> Defined broadly - including potential future team members. Foster psychological safety. 
   <li><b>Focus relentlessly on the right things.</b>Identify core vs. context and focus on the former.  
+  <li><b>Use your power to elevate others.
 </ul>  
+
+<H2>Rules</H2>
+Note: These are rules for myself. Others on my teams may choose to model them also, but are not required to do so. 
+<li><b>Take care of the team.</b> Sub: Requires taking care of yourself
+<li><b>Go first, go positive.</b> 
+<li><b>Radiate your intent. Fulfill your commitments.</b>
+<li><b>Be early.</b> Sub: Self-management.
 
 <H2>Pointers from Previous Direct Reports</H2>
 <ol>
